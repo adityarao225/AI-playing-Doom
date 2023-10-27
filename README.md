@@ -4,8 +4,8 @@
 
 
 ## Dependencies
- numpy
- pytorch 0.4.0
- matplotlib
- kivy
+1) numpy
+2) pytorch 0.4.0
+3) matplotlib
+4) kivy
 
